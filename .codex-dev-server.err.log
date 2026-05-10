@@ -1,0 +1,8 @@
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          26280
+- Dir:          C:\Users\lucas\Downloads\IKARO\IKARO
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 26280 /F to stop it.

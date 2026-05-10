@@ -1,0 +1,11 @@
+
+> my-project@0.1.0 dev
+> next dev --webpack --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.0 (webpack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 713ms
+
+○ Compiling / ...
+ GET / 200 in 6.6s (next.js: 6.1s, application-code: 436ms)
